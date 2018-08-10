@@ -1,9 +1,11 @@
 {
     "name": "ng-cli",
-    "displayName": "ng-cli",
-    "description": "angular-cli commands",
-    "version": "0.0.1",
-    "publisher": "balramchavan",
+    "displayName": "Inline Angular-CLI commands",
+    "description": "Angular (v6+) + Angular/Cli commands. Run angular-cli commands inside editor",
+    "version": "1.2.0",
+    "publisher": "UVBrain",
+    "repository": "https://github.com/ultrasonicsoft/ng-cli-vsx",
+    "icon": "images/angular-shield.png",
     "engines": {
         "vscode": "^1.25.0"
     },
@@ -35,5 +37,6 @@
         "tslint": "^5.8.0",
         "@types/node": "^7.0.43",
         "@types/mocha": "^2.2.42"
-    }
+    },
+    "author":"Balram Chavan"
 }
