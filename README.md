@@ -1,4 +1,4 @@
-# ng-cli 
+# Inline ng-cli - VS Code extension
 
 This extension runs angular/cli commands from Visual Studio code editor. You don't need to switch to integrated terminal or new command prompt.
 
@@ -16,9 +16,6 @@ This extension runs angular/cli commands from Visual Studio code editor. You don
 
 ## Demo
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
-
+![demo](https://user-images.githubusercontent.com/4145169/43944473-a7678548-9c9c-11e8-8bc7-d966e762113d.gif)
 
 **Enjoy!**
